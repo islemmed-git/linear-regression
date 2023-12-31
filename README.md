@@ -2,13 +2,13 @@
 
 This Python script performs linear regression using gradient descent on a dataset. The purpose is to find the best-fitting line for the given data points.
 
-**Requirements**
+# Requirements
 
 Python 3.x
 Pandas
 Matplotlib
 
-**Installation**
+# Installation
 
 Clone the repository:
 git clone https://github.com/your-username/your-repository.git
@@ -16,24 +16,24 @@ cd your-repository
 Install the required dependencies:
 pip install -r requirements.txt
 
-**Usage**
+# Usage
 
 Place your dataset in a CSV file named data.csv.
 Run the script:
 python linear_regression.py
 The script will perform gradient descent and display the learned coefficients.
 
-**Configuration**
+# Configuration
 
 You can adjust the learning rate (L) and the number of epochs (epochs) in the script.
 L = 0.0001
 epochs = 300
 
-**Output**
+# Output
 
 The script will output the learned coefficients for the linear regression model and display a scatter plot of the data points along with the regression line.
 
-**Contributing**
+# Contributing
 
 If you'd like to contribute to this project, please follow these steps:
 
