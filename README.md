@@ -1,4 +1,4 @@
-**Linear Regression with Gradient Descent**
+#Linear Regression with Gradient Descent#
 
 This Python script performs linear regression using gradient descent on a dataset. The purpose is to find the best-fitting line for the given data points.
 
