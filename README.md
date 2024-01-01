@@ -36,7 +36,6 @@ The script will output the learned coefficients for the linear regression model 
 # Contributing
 
 If you'd like to contribute to this project, please follow these steps:
-
 Fork the repository
 Create a new branch (git checkout -b feature/new-feature)
 Make your changes and commit them (git commit -am 'Add new feature')
