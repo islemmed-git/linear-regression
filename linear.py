@@ -37,14 +37,14 @@ def gradient_descent(m_now, b_now, points, L):
         # Partial derivative with respect to b
         b_gradient += -(2/n) * (y - (m_now * x + b_now))
 
-    # Update parameters
+    #Update parameters
     m = m_now - m_gradient * L
     b = b_now - b_gradient * L 
 
     return m, b
 
 
-# Initial values
+#Initial values
 m = 0              # slope
 b = 0              # intercept
 L = 0.0001         # learning rate
@@ -70,3 +70,4 @@ plt.plot(
 )
 
 plt.show()
+
