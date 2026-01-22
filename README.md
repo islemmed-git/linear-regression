@@ -33,11 +33,3 @@ epochs = 300
 
 The script will output the learned coefficients for the linear regression model and display a scatter plot of the data points along with the regression line.
 
-# Contributing
-
-If you'd like to contribute to this project, please follow these steps:
-Fork the repository
-Create a new branch (git checkout -b feature/new-feature)
-Make your changes and commit them (git commit -am 'Add new feature')
-Push to the branch (git push origin feature/new-feature)
-Create a pull request
